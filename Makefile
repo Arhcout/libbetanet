@@ -1,4 +1,5 @@
 # Makefile
+# Just testing CI
 
 # Should be either debug|release
 TARGET  ?= debug
